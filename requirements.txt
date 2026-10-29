@@ -1,0 +1,17 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Model Providers
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-ollama
+
+# Environment & Utilities
+python-dotenv
+
+#youtube transscript api
+youtube-transcript-api
